@@ -1,0 +1,147 @@
+{
+  "updatedAt": "2026-11-10",
+  "events": [
+    {
+      "id": "5E5E87C1-B934-51C1-9156-F29526D3A8B1",
+      "title": "Декларація з податку на прибуток за три квартали 2026 року",
+      "dueDate": "2026-11-09T10:00:00Z",
+      "kind": "Звітність",
+      "audience": "Платники з квартальним звітним періодом",
+      "details": "Перевірте застосовність цього строку до вашої системи оподаткування і конкретної звітної ситуації.",
+      "sourceURL": "https://mk.tax.gov.ua/media-ark/news-ark/1064496.html",
+      "reminderEnabled": false,
+      "isComplete": false,
+      "isOfficial": true,
+      "audienceKeys": [
+        "legal_general"
+      ],
+      "requiredFlags": [
+        "quarterly_profit"
+      ]
+    },
+    {
+      "id": "FC8BC268-4B8D-5209-9B91-E4EC17992AEA",
+      "title": "Декларація єдиного податку III групи за 9 місяців",
+      "dueDate": "2026-11-09T10:00:00Z",
+      "kind": "Звітність",
+      "audience": "Платники III групи",
+      "details": "Перевірте застосовність цього строку до вашої системи оподаткування і конкретної звітної ситуації.",
+      "sourceURL": "https://mk.tax.gov.ua/media-ark/news-ark/1064496.html",
+      "reminderEnabled": false,
+      "isComplete": false,
+      "isOfficial": true,
+      "audienceKeys": [
+        "fop3",
+        "legal_single3"
+      ],
+      "requiredFlags": []
+    },
+    {
+      "id": "A065F6F1-8D1A-5B7A-A0CC-070053CA263F",
+      "title": "Сплата податку на прибуток за три квартали",
+      "dueDate": "2026-11-19T10:00:00Z",
+      "kind": "Сплата",
+      "audience": "Платники з квартальним звітним періодом",
+      "details": "Перевірте застосовність цього строку до вашої системи оподаткування і конкретної звітної ситуації.",
+      "sourceURL": "https://mk.tax.gov.ua/media-ark/news-ark/1064496.html",
+      "reminderEnabled": false,
+      "isComplete": false,
+      "isOfficial": true,
+      "audienceKeys": [
+        "legal_general"
+      ],
+      "requiredFlags": [
+        "quarterly_profit"
+      ]
+    },
+    {
+      "id": "245788A4-026D-55DD-ADE8-63B045C820A4",
+      "title": "Сплата єдиного податку III групи за III квартал",
+      "dueDate": "2026-11-19T10:00:00Z",
+      "kind": "Сплата",
+      "audience": "Платники III групи",
+      "details": "Перевірте застосовність цього строку до вашої системи оподаткування і конкретної звітної ситуації.",
+      "sourceURL": "https://mk.tax.gov.ua/media-ark/news-ark/1064496.html",
+      "reminderEnabled": false,
+      "isComplete": false,
+      "isOfficial": true,
+      "audienceKeys": [
+        "fop3",
+        "legal_single3"
+      ],
+      "requiredFlags": []
+    },
+    {
+      "id": "1A9C0C7C-41EE-519F-86B3-A487070B54A1",
+      "title": "Декларація з ПДВ за жовтень",
+      "dueDate": "2026-11-20T10:00:00Z",
+      "kind": "Звітність",
+      "audience": "Платники ПДВ",
+      "details": "Перевірте застосовність цього строку до вашої системи оподаткування і конкретної звітної ситуації.",
+      "sourceURL": "https://mk.tax.gov.ua/media-ark/news-ark/1064496.html",
+      "reminderEnabled": false,
+      "isComplete": false,
+      "isOfficial": true,
+      "audienceKeys": [
+        "all"
+      ],
+      "requiredFlags": [
+        "vat"
+      ]
+    },
+    {
+      "id": "F2F3D746-E717-5348-995C-C426BFED24A1",
+      "title": "Сплата ЄСВ роботодавцями за жовтень",
+      "dueDate": "2026-11-20T10:00:00Z",
+      "kind": "Сплата",
+      "audience": "Роботодавці, крім гірничих підприємств",
+      "details": "Перевірте застосовність цього строку до вашої системи оподаткування і конкретної звітної ситуації.",
+      "sourceURL": "https://mk.tax.gov.ua/media-ark/news-ark/1064496.html",
+      "reminderEnabled": false,
+      "isComplete": false,
+      "isOfficial": true,
+      "audienceKeys": [
+        "all"
+      ],
+      "requiredFlags": [
+        "employer"
+      ]
+    },
+    {
+      "id": "9CD25C4A-6CF6-590F-A67E-EB9B9EB09655",
+      "title": "Сплата ПДВ за жовтень",
+      "dueDate": "2026-11-30T10:00:00Z",
+      "kind": "Сплата",
+      "audience": "Платники ПДВ",
+      "details": "Перевірте застосовність цього строку до вашої системи оподаткування і конкретної звітної ситуації.",
+      "sourceURL": "https://mk.tax.gov.ua/media-ark/news-ark/1064496.html",
+      "reminderEnabled": false,
+      "isComplete": false,
+      "isOfficial": true,
+      "audienceKeys": [
+        "all"
+      ],
+      "requiredFlags": [
+        "vat"
+      ]
+    },
+    {
+      "id": "FC392537-1A26-5F1F-A9A9-6EE22472AA1F",
+      "title": "Сплата плати за землю за жовтень",
+      "dueDate": "2026-11-30T10:00:00Z",
+      "kind": "Сплата",
+      "audience": "Платники плати за землю, крім громадян",
+      "details": "Перевірте застосовність цього строку до вашої системи оподаткування і конкретної звітної ситуації.",
+      "sourceURL": "https://mk.tax.gov.ua/media-ark/news-ark/1064496.html",
+      "reminderEnabled": false,
+      "isComplete": false,
+      "isOfficial": true,
+      "audienceKeys": [
+        "all"
+      ],
+      "requiredFlags": [
+        "land"
+      ]
+    }
+  ]
+}
