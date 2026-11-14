@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T19:40:30Z",
+  "updatedAt": "2026-11-14T21:07:57Z",
   "quotes": [
     {
       "code": "USD",
@@ -19,15 +19,16 @@
       "code": "PLN",
       "buy": null,
       "sell": null,
-      "reference": 11.5064,
+      "reference": 11.5228,
       "source": "monobank · крос-курс (не купівля/продаж)"
     },
     {
       "code": "CZK",
-      "buy": null,
-      "sell": null,
-      "reference": 2.0845,
-      "source": "monobank · крос-курс (не купівля/продаж)"
+      "buy": 2.025,
+      "sell": 2.115,
+      "reference": null,
+      "source": "ОТП Банк · OTP Bank UA",
+      "asOf": "2026-11-13T17:07:00+02:00"
     }
   ]
 }
