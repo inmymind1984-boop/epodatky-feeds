@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T15:19:19Z",
+  "updatedAt": "2026-11-16T19:09:15Z",
   "quotes": [
     {
       "code": "USD",
@@ -19,7 +19,7 @@
       "code": "PLN",
       "buy": null,
       "sell": null,
-      "reference": 11.5226,
+      "reference": 11.5234,
       "source": "monobank · крос-курс (не купівля/продаж)"
     },
     {
