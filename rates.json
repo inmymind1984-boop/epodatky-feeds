@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T18:57:29Z",
+  "updatedAt": "2026-11-16T08:58:03Z",
   "quotes": [
     {
       "code": "USD",
@@ -10,8 +10,8 @@
     },
     {
       "code": "EUR",
-      "buy": 50.175,
-      "sell": 51.0251,
+      "buy": 50.155,
+      "sell": 51.0044,
       "reference": null,
       "source": "Середній: ПриватБанк + monobank"
     },
@@ -19,16 +19,16 @@
       "code": "PLN",
       "buy": null,
       "sell": null,
-      "reference": 11.5258,
+      "reference": 11.522,
       "source": "monobank · крос-курс (не купівля/продаж)"
     },
     {
       "code": "CZK",
-      "buy": 2.025,
-      "sell": 2.115,
+      "buy": 2.019,
+      "sell": 2.102,
       "reference": null,
       "source": "ОТП Банк · OTP Bank UA",
-      "asOf": "2026-11-13T17:07:00+02:00"
+      "asOf": "2026-11-16T10:22:00+02:00"
     }
   ]
 }
