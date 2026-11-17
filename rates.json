@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-16T19:09:15Z",
+  "updatedAt": "2026-11-17T07:32:47Z",
   "quotes": [
     {
       "code": "USD",
-      "buy": 45.365,
+      "buy": 45.325,
       "sell": 45.8898,
       "reference": null,
       "source": "Середній: ПриватБанк + monobank"
     },
     {
       "code": "EUR",
-      "buy": 50.155,
-      "sell": 51.0044,
+      "buy": 49.93,
+      "sell": 50.7805,
       "reference": null,
       "source": "Середній: ПриватБанк + monobank"
     },
@@ -19,7 +19,7 @@
       "code": "PLN",
       "buy": null,
       "sell": null,
-      "reference": 11.5234,
+      "reference": 11.4945,
       "source": "monobank · крос-курс (не купівля/продаж)"
     },
     {
